@@ -10,7 +10,7 @@
 - 🔥 Trying to increase the pace towards building things out.
 - 🪨 Trying to break the things to re-learn and make things work better!
 
-## Tech Stack!
+## 👩‍💻 Tech Stack!
 
 - 💻 JavaScript | ES6 | Dart(flutter)
 - 🌐 React JS | Redux | HTML | CSS 
